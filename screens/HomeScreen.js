@@ -4,6 +4,7 @@ export function HomeScreen() {
   return (
     <View>
       <Text>Hi Harman!</Text>
+    <Text>Hi Esh! Wussup</Text>
     </View>
   );
 }
